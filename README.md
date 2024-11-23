@@ -2,7 +2,7 @@
 
 <h2>👨‍💻IT Projects:</h2>
 
-- <b>VM Setup with Active Directory, DHCP & DNS</b>
+- <b>VM Home Lab Setup</b>
 - [Managaing & Deploying Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Web Server Deployment and Testing</b>
 - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
