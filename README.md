@@ -3,20 +3,15 @@
 <h2>👨‍💻IT Projects:</h2>
 
 - <b>VM Setup with Active Directory, DHCP & DNS</b>
-  - [Managaing & Deploying Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Managaing & Deploying Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Web Server Deployment and Testing</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+- [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>Performance Monitoring and Resource Optimization</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Windows 11 Troubleshooting Essentials</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Securing Windows 11: A Comprehensive Guide</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺My Blog Pages</h2>
 
@@ -37,18 +32,3 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: (https://www.linkedin.com/in/recardo-carlin-4073b5335/)
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
