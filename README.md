@@ -7,15 +7,6 @@
 - [Organising Active Directory](https://github.com/RecardoIT/Organising-Active-Directory)
 - [User And Group File Permissions](https://github.com/RecardoIT/File-And-User-Permissions)
 
-- <b>Web Server Deployment and Testing</b>
-- [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-- <b>Performance Monitoring and Resource Optimization</b>
-- [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Windows 11 Troubleshooting Essentials</b>
-- [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Securing Windows 11: A Comprehensive Guide</b>
-- [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 <h2>📺My Blog Pages</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
