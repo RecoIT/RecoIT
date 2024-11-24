@@ -3,7 +3,7 @@
 <h2>👨‍💻IT Projects:</h2>
 
 - <b>VM Home Lab Setup</b>
-- [Managaing & Deploying Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Installing VM & Active Directory](https://github.com/RecardoIT/Installing-Active-Directory)
 - <b>Web Server Deployment and Testing</b>
 - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>Performance Monitoring and Resource Optimization</b>
