@@ -4,6 +4,7 @@
 
 - <b>VM Home Lab Setup</b>
 - [Installing VM & Active Directory](https://github.com/RecardoIT/Installing-Active-Directory)
+- [Organising Active Directory](https://github.com/RecardoIT/Organising-Active-Directory)
 - <b>Web Server Deployment and Testing</b>
 - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>Performance Monitoring and Resource Optimization</b>
