@@ -5,6 +5,8 @@
 - <b>VM Home Lab Setup</b>
 - [Installing VM & Active Directory](https://github.com/RecardoIT/Installing-Active-Directory)
 - [Organising Active Directory](https://github.com/RecardoIT/Organising-Active-Directory)
+- [User And Group File Permissions](https://github.com/RecardoIT/File-And-User-Permissions)
+
 - <b>Web Server Deployment and Testing</b>
 - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>Performance Monitoring and Resource Optimization</b>
