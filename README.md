@@ -2,7 +2,7 @@
 
 <h2>👨‍💻IT Projects:</h2>
 
-- <b>VM Home Lab Setup</b>
+- [VM Home Lab Setup](https://github.com/RecardoIT/Installing-Active-Directory)
 - [Installing VM & Active Directory](https://github.com/RecardoIT/Installing-Active-Directory)
 - [Organising Active Directory](https://github.com/RecardoIT/Organising-Active-Directory)
 - [User And Group File Permissions](https://github.com/RecardoIT/File-And-User-Permissions)
