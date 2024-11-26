@@ -2,11 +2,8 @@
 
 <h2>👨‍💻IT Projects:</h2>
 
-- [VM Home Lab Setup](https://github.com/RecardoIT/Installing-Active-Directory)
-- [Installing VM & Active Directory](https://github.com/RecardoIT/Installing-Active-Directory)
-- [Organising Active Directory Domain](https://github.com/RecardoIT/Organising-Active-Directory)
-- [User And Group File Permissions](https://github.com/RecardoIT/File-And-User-Permissions)
-
+- [Virtual Machine Home Lab Setup](https://github.com/RecardoIT/Installing-Active-Directory)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
