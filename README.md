@@ -4,7 +4,7 @@
 
 - [VM Home Lab Setup](https://github.com/RecardoIT/Installing-Active-Directory)
 - [Installing VM & Active Directory](https://github.com/RecardoIT/Installing-Active-Directory)
-- [Organising Active Directory](https://github.com/RecardoIT/Organising-Active-Directory)
+- [Organising Active Directory Domain](https://github.com/RecardoIT/Organising-Active-Directory)
 - [User And Group File Permissions](https://github.com/RecardoIT/File-And-User-Permissions)
 
 <h2> 🤳 Connect with me:</h2>
