@@ -2,7 +2,7 @@
 
 <h2>👨‍💻IT Projects:</h2>
 
-- [Virtual Machine Home Lab Setup](https://github.com/RecardoIT/Installing-Active-Directory)
+- [Virtual Machine Home Lab Setup](https://github.com/RecardoIT/VM-Home-Lab-Setup)
   
 <h2> 🤳 Connect with me:</h2>
 
