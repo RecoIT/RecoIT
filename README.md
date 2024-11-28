@@ -11,7 +11,7 @@ A long interest in technology has led me into the field of I.T, where I am now e
 
 | Projects & Skills                             |Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Deployment & Management      | <a href="google.com"> N/A</a>|
+| Active Directory Deployment & Management      | <a href="https://github.com/RecardoIT/Active-Directory-Setup-Administration">VM & AD Setup</a>|
 | Windows 11 Troubleshooting Guide & Solutions  | <a href="google.com"> N/A</a>||
 | Virtual IT Help Desk Simulator                | <a href="google.com"> N/A</a>|
 | Home Network Setup and Security Configuration | <a href="google.com"> N/A</a>|
