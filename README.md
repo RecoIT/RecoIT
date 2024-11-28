@@ -11,11 +11,11 @@ A long interest in technology has led me into the field of I.T, where I am now e
 
 | Projects & Skills                             |Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Deployment & Management      | <a href="https://google.com">Detection Lab</a>|
-| Windows 11 Troubleshooting Guide & Solutions  | <a href="https://google.com">Detection Lab</a>|
-| Virtual IT Help Desk Simulator                | SOC Automation Lab|
-| Home Network Setup and Security Configuration | SOC Automation Lab|
-| Cloud Deployment with Azure or AWS            | SOC Automation Lab|
+| Active Directory Deployment & Management      | <a href="google.com"> N/A</a>|
+| Windows 11 Troubleshooting Guide & Solutions  | <a href="google.com"> N/A</a>||
+| Virtual IT Help Desk Simulator                | <a href="google.com"> N/A</a>|
+| Home Network Setup and Security Configuration | <a href="google.com"> N/A</a>|
+| Cloud Deployment with Azure or AWS            | <a href="google.com"> N/A</a>|
 
 
 ## Tools
