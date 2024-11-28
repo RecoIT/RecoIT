@@ -1,6 +1,5 @@
 <h1>Hi, I'm Recardo!💻<h1> 
-
-<h1>IT Support Specialist, Active Directory Administrator, Windows Troubleshooting Expert</h1>
+<h1> IT Support Specialist, Active Directory Administrator, Windows Troubleshooting Expert<h1> 
 
 <h2>👨‍💻IT Projects:</h2>
 
