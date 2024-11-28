@@ -20,36 +20,31 @@ A long interest in technology has led me into the field of I.T, where I am now e
 
 ## Tools
 
-### Virtual Machines
+### Virtual Machines & Active Directory
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+<img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure%20AD-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+
 </div>
 
-### Endpoint
+### Networking
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%20Firewall-0078D4?style=for-the-badge&logo=Microsoft%20Windows%20Server&logoColor=white" />
 </div>
 
-### SIEM
+### Cloud Deployment
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Oracle%20Cloud%20Infrastructure-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+## Certifications (Accredited Courses With IT Certify)
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20A%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white&text=IT%20Certify"/>
+<img src="https://img.shields.io/badge/-CompTIA%20Cloud%2B-FF6600?style=for-the-badge&logo=CompTIA&logoColor=white&text=IT%20Certify"/>
+<img src="https://img.shields.io/badge/-CompTIA%20Network%2B-0078D4?style=for-the-badge&logo=CompTIA&logoColor=white&text=IT%20Certify" />
+<img src="https://img.shields.io/badge/-CCNA-006B3F?style=for-the-badge&logo=Cisco&logoColor=white&text=IT%20Certify" />
+<img src="https://img.shields.io/badge/-ITIL-5F9B41?style=for-the-badge&logo=Axelos&logoColor=white&text=IT%20Certify" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
