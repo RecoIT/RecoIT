@@ -1,4 +1,6 @@
-<h1>Hi, I'm Recardo! 💻 <br/><a href="https://github.com/RecardoIT/RecardoIT">IT Support Specialist</a>, <a href="https://github.com/RecardoIT/RecardoIT">Active Directory Administrator</a>, <a href="https://github.com/RecardoIT/RecardoIT">Windows Troubleshooting Expert</a></h1>
+<h1>Hi, I'm Recardo!💻<h1> 
+
+<h1>IT Support Specialist, Active Directory Administrator, Windows Troubleshooting Expert</h1>
 
 <h2>👨‍💻IT Projects:</h2>
 
