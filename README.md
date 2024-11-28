@@ -7,11 +7,11 @@ I am a previously self employed I.T Technician, with strong interests in hardwar
 
 A long interest in technology has led me into the field of I.T, where I am now eager to land a position as a help desk specialist.
 
-## Skills
+## Projects
 
 | Projects & Skills                             |Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Deployment & Management      | <a href="https://github.com/RecardoIT/Active-Directory-Setup-Administration">VM & AD Setup</a>|
+| Virtual Machine Homelab & Active Directory Setup      | <a href="https://github.com/RecardoIT/Active-Directory-Setup-Administration">VM & AD Setup</a>|
 | Windows 11 Troubleshooting Guide & Solutions  | <a href="google.com"> N/A</a>||
 | Virtual IT Help Desk Simulator                | <a href="google.com"> N/A</a>|
 | Home Network Setup and Security Configuration | <a href="google.com"> N/A</a>|
