@@ -12,7 +12,7 @@ A long interest in technology has led me into the field of I.T, where I am now e
 | Projects & Skills                             |Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Windows Server 2022: VM & AD Setup      | <a href="https://github.com/RecardoIT/Active-Directory-Setup-Administration">VM & AD Setup</a>|
-| Windows 11 Troubleshooting Guide & Solutions  | <a href="google.com"> N/A</a>||
+| Realitsic Ticketing System  | <a href="google.com"> N/A</a>||
 | Home Network Setup and Security Configuration | <a href="google.com"> N/A</a>|
 
 
