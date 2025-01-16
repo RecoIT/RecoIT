@@ -5,7 +5,7 @@ I am a previously self employed I.T Technician, with strong interests in hardwar
 
 ## Objective
 
-A long interest in technology has led me into the field of I.T, where I am now eager to land a position as a help desk specialist.
+A long interest in technology has led me into the field of I.T, where I am now eager to land a position as a help desk specialist or Cyber Security Analyst role.
 
 ## Projects
 
