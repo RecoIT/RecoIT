@@ -3,7 +3,7 @@
 ### Certifications & Experience
 
 ![Mastercard - Cybersecurity Job Simulation](https://img.shields.io/badge/-Mastercard%20--%20Cybersecurity%20Job%20Simulation-ff5f00?logo=Mastercard&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![CompTIA Network+ N10-008](https://img.shields.io/badge/-CompTIA%20Network%2B%20--%20IT%20Certify-FF0000?logo=CompTIA&logoColor=white)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
