@@ -1,8 +1,8 @@
-[![](https://imgur.com/q4NjjS5.gif)](https://www.linkedin.com/in/recardocarlin//)<!-- If you want the template for my gif, email me! -->
+[![](https://imgur.com/q4NjjS5.gif)](https://www.linkedin.com/in/recardocarlin//)
 
 ### Experience
 
-![Mastercard - Cybersecurity Job Simulation](https://img.shields.io/badge/-Mastercard%20--%20Cybersecurity%20Job%20Simulation-000000?)
+![Mastercard - Cybersecurity Job Simulation](https://img.shields.io/badge/-Mastercard%20--%20Cybersecurity%20Job%20Simulation-000000?logo=Mastercard&logoColor=white)
 
 ### Certifications
 
