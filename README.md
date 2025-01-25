@@ -1,48 +1,46 @@
-# Hello, I'm Recardo
-<a href="https://www.linkedin.com/in/RecardoCarlin"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
-I am a previously self employed I.T Technician, with strong interests in hardware and software troubleshooting, as well as active directory deployments.
+### Languages
 
-## Objective
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
-A long interest in technology has led me into the field of I.T, where I am now eager to land a position as a help desk specialist or Cyber Security Analyst role.
+### Technologies
 
-## Projects
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-| Projects & Skills                             |Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Windows Server 2022: VM & AD Setup            | VM & AD Setup</a>|
-| Help Desk Ticketing System Simulation         | Cloud Helpdesk Simulation</a>||
-| Home Network Setup and Security Configuration | 
+### Full Stack Projects
 
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
+[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
 
-## Tools
+### Cybersecurity Projects
 
-### Virtual Machines & Active Directory
-<div>
-<img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
-<img src="https://img.shields.io/badge/-Windows%20PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
-<img src="https://img.shields.io/badge/-Azure%20AD-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
+[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
+[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
+[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
+[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
+[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
 
-</div>
-
-### Networking
-<div>
-    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows%20Firewall-0078D4?style=for-the-badge&logo=Microsoft%20Windows%20Server&logoColor=white" />
-</div>
-
-### Cloud Deployment
-<div>
-    <img src="https://img.shields.io/badge/-Oracle%20Cloud%20Infrastructure-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-</div>
-
-## Certifications (Accredited Courses With IT Certify)
-<div>
-<img src="https://img.shields.io/badge/-CompTIA%20A%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white&text=IT%20Certify"/>
-<img src="https://img.shields.io/badge/-CompTIA%20Cloud%2B-FF6600?style=for-the-badge&logo=CompTIA&logoColor=white&text=IT%20Certify"/>
-<img src="https://img.shields.io/badge/-CompTIA%20Network%2B-0078D4?style=for-the-badge&logo=CompTIA&logoColor=white&text=IT%20Certify" />
-<img src="https://img.shields.io/badge/-CCNA-006B3F?style=for-the-badge&logo=Cisco&logoColor=white&text=IT%20Certify" />
-<img src="https://img.shields.io/badge/-ITIL-5F9B41?style=for-the-badge&logo=Axelos&logoColor=white&text=IT%20Certify" />
-</div>
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
