@@ -2,7 +2,7 @@
 
 ###Experience
 
-![Mastercard - Cybersecurity Job Simulation](https://img.shields.io/badge/-Mastercard%20--%20Cybersecurity%20Job%20Simulation-000000?
+![Mastercard - Cybersecurity Job Simulation](https://img.shields.io/badge/-Mastercard%20--%20Cybersecurity%20Job%20Simulation-000000?)
 
 ### Certifications
 
