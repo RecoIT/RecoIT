@@ -1,8 +1,8 @@
 [![](https://imgur.com/q4NjjS5.gif)](https://www.linkedin.com/in/recardocarlin//)<!-- If you want the template for my gif, email me! -->
 
-### Certifications
+### Certifications & Experience
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Mastercard - Cybersecurity Job Simulation](https://img.shields.io/badge/-Mastercard-ff5f00?logo=Mastercard&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
