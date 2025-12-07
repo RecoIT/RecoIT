@@ -10,7 +10,7 @@
 
 ## 🧰 Skills & Technologies
 
-**Technical Skills**
+** Technical Skills**
 - Windows 10/11 installation, configuration & troubleshooting  
 - PC hardware diagnostics, repairs & upgrades  
 - Network fundamentals: TCP/IP, DHCP, DNS, VLANs  
@@ -21,7 +21,7 @@
 
 ---
 
-##🎓 Certifications
+### Certifications
 
 ![CompTIA Network+ N10-008](https://img.shields.io/badge/-CompTIA%20Network%2B%20--%20IT%20Certify-000000?logo=CompTIA&logoColor=white)
 ![CompTIA A+](https://img.shields.io/badge/-CompTIA%20A%2B%20--%20IT%20Certify-000000?logo=CompTIA&logoColor=white)
