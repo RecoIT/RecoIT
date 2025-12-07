@@ -1,6 +1,6 @@
 [![](https://imgur.com/q4NjjS5.gif)](https://www.linkedin.com/in/recardocarlin//)
 
-# Hi, I'm [Recardo] 👋
+# Hi, I'm Recardo 👋
 📍 IT Technician | Aspiring Cyber Security Analyst   
 💻 2+ years experience in PC repair, troubleshooting, networking & security  
 🔧 Hands-on skills in Windows, hardware, networking and virtualization  
@@ -18,12 +18,6 @@
 - Virtualization: VirtualBox, VMware, Proxmox  
 - Command line & tools: PowerShell, CMD  
 - Ticketing systems: Freshdesk, Jira (basic)
-
-**Tools I Use**
-- Cisco Packet Tracer / GNS3  
-- pfSense  
-- Windows Server (AD/DNS/GPO)  
-- Clonezilla, Rufus, Memtest, CrystalDiskInfo  
 
 ---
 
