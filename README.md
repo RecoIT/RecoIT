@@ -48,5 +48,5 @@ PowerShell scripts used for quick diagnostics, cleanup, and system hardening.
 ---
 
 ## 📫 Contact Me
-📧 Email: your-email@example.com  
-🔗 LinkedIn: your-linkedin-url  
+📧 Email: recardoit.carlin@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/recardocarlin
