@@ -1,5 +1,32 @@
 [![](https://imgur.com/q4NjjS5.gif)](https://www.linkedin.com/in/recardocarlin//)
 
+# Hi, I'm [Recardo] 👋
+📍 IT Technician | Aspiring Cyber Security Analyst   
+💻 2+ years experience in PC repair, troubleshooting, networking & security  
+🔧 Hands-on skills in Windows, hardware, networking and virtualization  
+🌱 Currently studying for: CompTIA A+ / Network+ / CCNA
+
+---
+
+## 🧰 Skills & Technologies
+
+**Technical Skills**
+- Windows 10/11 installation, configuration & troubleshooting  
+- PC hardware diagnostics, repairs & upgrades  
+- Network fundamentals: TCP/IP, DHCP, DNS, VLANs  
+- Basic firewall rules, antivirus, malware removal  
+- Virtualization: VirtualBox, VMware, Proxmox  
+- Command line & tools: PowerShell, CMD  
+- Ticketing systems: Freshdesk, Jira (basic)
+
+**Tools I Use**
+- Cisco Packet Tracer / GNS3  
+- pfSense  
+- Windows Server (AD/DNS/GPO)  
+- Clonezilla, Rufus, Memtest, CrystalDiskInfo  
+
+---
+
 ### Certifications
 
 ![CompTIA Network+ N10-008](https://img.shields.io/badge/-CompTIA%20Network%2B%20--%20IT%20Certify-000000?logo=CompTIA&logoColor=white)
@@ -8,9 +35,24 @@
 ![CompTIA Cloud + (2020)](https://img.shields.io/badge/-CompTIA%20Cloud%2B%20--%20IT%20Certify-000000?logo=CompTIA&logoColor=white)
 ![Mastercard - Cybersecurity Job Simulation](https://img.shields.io/badge/-Mastercard%20--%20Cybersecurity%20Job%20Simulation-000000?logo=Mastercard&logoColor=white)
 
+---
 
-### IT Projects
+## 🏗️ Featured Projects
 
+### 🔹 **Home Lab Environment**
+A virtualized network with Windows Server, Active Directory, DNS, Group Policy, and client machines.  
+➡️ *[View Project](#)*
 
+### 🔹 **Packet Tracer Network Topologies**
+Designed and configured multiple small business networks: VLANs, subnets, routing, and troubleshooting.  
+➡️ *[View Project](#)*
 
-### Cybersecurity Projects
+### 🔹 **PC Repair & Hardening Scripts**
+PowerShell scripts used for quick diagnostics, cleanup, and system hardening.  
+➡️ *[View Project](#)*
+
+---
+
+## 📫 Contact Me
+📧 Email: your-email@example.com  
+🔗 LinkedIn: your-linkedin-url  
