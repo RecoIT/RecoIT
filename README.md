@@ -11,7 +11,7 @@
 ## 🧰 Skills & Technologies
 
 ** Technical Skills**
-- Windows 10/11 installation, configuration & troubleshooting  
+- Windows 11 installation, configuration & troubleshooting  
 - PC hardware diagnostics, repairs & upgrades  
 - Network fundamentals: TCP/IP, DHCP, DNS, VLANs  
 - Basic firewall rules, antivirus, malware removal  
