@@ -1,4 +1,5 @@
-[![Banner](https://i.imgur.com/XXXXXXXX.gif)](https://www.linkedin.com/in/recardocarljn/)
+[![Banner](assets/banner.gif)](https://www.linkedin.com/in/recardocarljn/)
+
 
 
 # Hi, I'm Recardo 👋
