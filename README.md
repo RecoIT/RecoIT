@@ -1,4 +1,4 @@
-[![](https://imgur.com/q4NjjS5.gif)](https://www.linkedin.com/in/recardocarlin//)
+[![](https://imgur.com/a/github-banner-acO8ybz)](https://www.linkedin.com/in/recardocarlin//)
 
 # Hi, I'm Recardo 👋
 📍 IT Technician | Aspiring Cyber Security Analyst   
