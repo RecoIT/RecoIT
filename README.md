@@ -1,4 +1,4 @@
-[![Banner](https://i.imgur.com/J3lqXfk.mp4)](https://www.linkedin.com/in/recardocarljn/)
+[![Banner](https://i.imgur.com/HrC3iBP.gif)](https://www.linkedin.com/in/recardocarljn/)
 
 
 
