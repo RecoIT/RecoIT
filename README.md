@@ -10,7 +10,7 @@
 
 ---
 
-## 🧰 Technical Skills
+### 🧰 Technical Skills
 - Windows 11 installation, configuration & troubleshooting
 - Active Directory setup & configuration
 - PC hardware diagnostics, repairs & upgrades  
