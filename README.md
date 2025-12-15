@@ -1,4 +1,5 @@
-[![Banner](assets/banner.gif)](https://www.linkedin.com/in/recardocarljn/)
+[![Banner](https://i.imgur.com/sYuzqdw.gif)](https://www.linkedin.com/in/recardocarljn/)
+
 
 
 
