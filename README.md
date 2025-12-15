@@ -1,7 +1,6 @@
-(https://i.imgur.com/HrC3iBP.gif)
-
-
-
+<div style="text-align: center;">
+    <img src="raw.githubusercontent.com/RecoIT/refs/heads/main/banner.gif" alt="Banner GIF" style="max-width: 100%; height: auto;">
+</div>
 
 # Hi, I'm Recardo 👋
 📍 IT Technician | Aspiring Cyber Security Analyst   
