@@ -1,4 +1,4 @@
-[![Banner](https://i.imgur.com/HrC3iBP.gif)](https://www.linkedin.com/in/recardocarljn/)
+[![Recardo Carlin - IT Technician](https://i.imgur.com/HrC3iBP.gif)](https://www.linkedin.com/in/recardocarljn/)
 
 
 
