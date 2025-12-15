@@ -24,7 +24,7 @@
 
 ---
 
-### Certifications
+### 📜 Certifications
 
 ![CompTIA Network+ N10-008](https://img.shields.io/badge/-CompTIA%20Network%2B%20--%20IT%20Certify-000000?logo=CompTIA&logoColor=white)
 ![CompTIA A+](https://img.shields.io/badge/-CompTIA%20A%2B%20--%20IT%20Certify-000000?logo=CompTIA&logoColor=white)
