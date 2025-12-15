@@ -23,14 +23,14 @@
 ---
 
 ###  📊 Software Expertise
-- Windows 11 installation, configuration & troubleshooting
-- Active Directory setup & configuration
-- PC hardware diagnostics, repairs & upgrades  
-- Network fundamentals: TCP/IP, DHCP, DNS, VLANs  
-- Basic firewall rules, antivirus, malware removal  
-- Virtualization: VirtualBox, VMware, Proxmox  
-- Command line & tools: PowerShell, CMD  
-- Ticketing systems: Freshdesk, Jira (basic)
+- Active Directory: Experienced in user management, group policies, and directory services.
+- Windows Server 2022: Proficient in installation, configuration, and administration tasks.
+- VMware: Experience with VMware for virtualization and cloud infrastructure management.
+- PowerShell: Skilled in using PowerShell for automation and command-line tasks.
+- Cisco Packet Tracer: Familiar with Cisco Packet Tracer for network simulations and troubleshooting.
+- Azure: Experience with Microsoft Azure for cloud services and resource management.
+- Microsoft Teams: Experience in using Teams for communication and collaboration in team settings.
+- Microsoft Office Suite: Proficient in Word, Excel, and PowerPoint for documentation and presentations.
 
 ---
 
