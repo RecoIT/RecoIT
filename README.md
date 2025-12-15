@@ -11,7 +11,8 @@
 ## 🧰 Skills & Technologies
 
 ** Technical Skills**
-- Windows 11 installation, configuration & troubleshooting  
+- Windows 11 installation, configuration & troubleshooting
+- Active Directory setup & configuration
 - PC hardware diagnostics, repairs & upgrades  
 - Network fundamentals: TCP/IP, DHCP, DNS, VLANs  
 - Basic firewall rules, antivirus, malware removal  
@@ -34,7 +35,7 @@
 ## 🏗️ Featured Projects
 
 ### 🔹 **Home Lab Environment**
-A virtualized network with Windows Server, Active Directory, DNS, Group Policy, and client machines.  
+A virtualized enviroment with Windows Server, Active Directory, DNS, Group Policy, and client machines.  
 ➡️ *[View Project](#)*
 
 ### 🔹 **Packet Tracer Network Topologies**
