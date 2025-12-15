@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/RecoIT/your-repo-name/main/banner.gif" alt="Banner GIF" style="max-width: 100%; height: auto;">
+    <img src="https://raw.githubusercontent.com/RecoIT/RecoIT/main/banner.gif" alt="Banner GIF" style="max-width: 100%; height: auto;">
 </div>
 
 # Hi, I'm Recardo 👋
