@@ -10,9 +10,7 @@
 
 ---
 
-## 🧰 Skills & Technologies
-
-** Technical Skills**
+## 🧰 Technical Skills
 - Windows 11 installation, configuration & troubleshooting
 - Active Directory setup & configuration
 - PC hardware diagnostics, repairs & upgrades  
@@ -23,6 +21,16 @@
 - Ticketing systems: Freshdesk, Jira (basic)
 
 ---
+
+###  📊 Software Expertise
+- Windows 11 installation, configuration & troubleshooting
+- Active Directory setup & configuration
+- PC hardware diagnostics, repairs & upgrades  
+- Network fundamentals: TCP/IP, DHCP, DNS, VLANs  
+- Basic firewall rules, antivirus, malware removal  
+- Virtualization: VirtualBox, VMware, Proxmox  
+- Command line & tools: PowerShell, CMD  
+- Ticketing systems: Freshdesk, Jira (basic)
 
 ### 📜 Certifications
 
