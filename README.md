@@ -44,22 +44,6 @@
 
 ---
 
-## 🏗️ Featured Projects
-
-### **Home Lab Environment**
-A virtualized enviroment with Windows Server, Active Directory, DNS, Group Policy, and client machines.  
-➡️ *[View Project](#)*
-
-### **Packet Tracer Network Topologies**
-Designed and configured multiple small business networks: VLANs, subnets, routing, and troubleshooting.  
-➡️ *[View Project](#)*
-
-### **PC Repair & Hardening Scripts**
-PowerShell scripts used for quick diagnostics, cleanup, and system hardening.  
-➡️ *[View Project](#)*
-
----
-
 ## 📫 Contact Me
 📧 Email: recardoit.carlin@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/recardocarlin
